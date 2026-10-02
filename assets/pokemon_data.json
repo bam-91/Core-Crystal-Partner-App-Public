@@ -2,9 +2,9 @@
     "Chikorita": {
         "Types": {
             "Faithful": {
-                "Type 1": "fire",
+                "Type 1": "grass",
                 "Type 2": null,
-                "Combined Type": "Fire"
+                "Combined Type": "Grass"
             },
             "Updated": {
                 "Type 1": "grass",
