@@ -1,0 +1,2827 @@
+{
+  "Falkner": [
+    {
+      "Pokemon": "spearow",
+      "Item": null,
+      "move 1": "peck",
+      "move 2": "mud-slap",
+      "move 3": "leer",
+      "move 4": "fury-attack",
+      "Badge Level": 0
+    },
+    {
+      "Pokemon": "Noctowl",
+      "Item": "Berry",
+      "move 1": "tackle",
+      "move 2": "mud-slap",
+      "move 3": "growl",
+      "move 4": "peck",
+      "Badge Level": 0
+    }
+  ],
+  "Bugsy": [
+    {
+      "Pokemon": "ledian",
+      "Item": null,
+      "move 1": "comet-punch",
+      "move 2": "Baton-pass",
+      "move 3": "defense-curl",
+      "move 4": "mach-punch",
+      "Badge Level": 1
+    },
+    {
+      "Pokemon": "yanma",
+      "Item": null,
+      "move 1": "quick-attack",
+      "move 2": "fury-cutter",
+      "move 3": "supersonic",
+      "move 4": "foresight",
+      "Badge Level": 1
+    },
+    {
+      "Pokemon": "scyther",
+      "Item": "Berry Juice",
+      "move 1": "quick-attack",
+      "move 2": "fury-cutter",
+      "move 3": "cut",
+      "move 4": "pursuit",
+      "Badge Level": 1
+    }
+  ],
+  "Whitney": [
+    {
+      "Pokemon": "furret",
+      "Item": null,
+      "move 1": "headbutt",
+      "move 2": "quick-attack",
+      "move 3": "defense-curl",
+      "move 4": "dig",
+      "Badge Level": 2
+    },
+    {
+      "Pokemon": "clefairy",
+      "Item": null,
+      "move 1": "double-slap",
+      "move 2": "sing",
+      "move 3": "minimize",
+      "move 4": "Confusion",
+      "Badge Level": 2
+    },
+    {
+      "Pokemon": "Miltank",
+      "Item": "Miracle Berry",
+      "move 1": "Rollout",
+      "move 2": "Attract",
+      "move 3": "Stomp",
+      "move 4": "Milk Drink",
+      "Badge Level": 2
+    }
+  ],
+  "Morty": [
+    {
+      "Pokemon": "Haunter",
+      "Item": null,
+      "move 1": "hypnosis",
+      "move 2": "nightmare",
+      "move 3": "curse",
+      "move 4": "night shade",
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "stantler",
+      "Item": null,
+      "move 1": "swift",
+      "move 2": "hypnosis",
+      "move 3": "nightmare",
+      "move 4": "leer",
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "misdreavus",
+      "Item": null,
+      "move 1": "shadow-ball",
+      "move 2": "pain-split",
+      "move 3": "perish-song",
+      "move 4": "psywave",
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "gengar",
+      "Item": "Miracle Berry",
+      "move 1": "hypnosis",
+      "move 2": "shadow-ball",
+      "move 3": "mean-look",
+      "move 4": "dream-eater",
+      "Badge Level": 3
+    }
+  ],
+  "Chuck (Badge #5)": [
+    {
+      "Pokemon": "primeape",
+      "Item": null,
+      "move 1": "low-kick",
+      "move 2": "karate-chop",
+      "move 3": "Ice-punch",
+      "move 4": "rage",
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "sudowoodo",
+      "Item": null,
+      "move 1": "rock-slide",
+      "move 2": "flail",
+      "move 3": "low-kick",
+      "move 4": "feint-attack",
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "poliwrath",
+      "Item": "black belt",
+      "move 1": "Hypnosis",
+      "move 2": "lock-on",
+      "move 3": "Surf",
+      "move 4": "dynamic-punch",
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "hitmontop",
+      "Item": null,
+      "move 1": "triple-kick",
+      "move 2": "rolling-kick",
+      "move 3": "rapid-spin",
+      "move 4": "pursuit",
+      "Badge Level": 4
+    }
+  ],
+  "Chuck (Badge #6-7)": [
+    {
+      "Pokemon": "primeape",
+      "Item": null,
+      "move 1": "low-kick",
+      "move 2": "karate-chop",
+      "move 3": "Ice-punch",
+      "move 4": "rage",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "sudowoodo",
+      "Item": null,
+      "move 1": "rock-slide",
+      "move 2": "flail",
+      "move 3": "low-kick",
+      "move 4": "feint-attack",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "sirfetch'd",
+      "Item": null,
+      "move 1": "slash",
+      "move 2": "swords-dance",
+      "move 3": "karate-chop",
+      "move 4": "swagger",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "poliwrath",
+      "Item": "black belt",
+      "move 1": "Hypnosis",
+      "move 2": "lock-on",
+      "move 3": "Surf",
+      "move 4": "dynamic-punch",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "hitmontop",
+      "Item": null,
+      "move 1": "triple-kick",
+      "move 2": "rolling-kick",
+      "move 3": "rapid-spin",
+      "move 4": "pursuit",
+      "Badge Level": 5
+    }
+  ],
+  "Jasmine (Badge #5)": [
+    {
+      "Pokemon": "skarmory",
+      "Item": null,
+      "move 1": "spikes",
+      "move 2": "drill-peck",
+      "move 3": "swagger",
+      "move 4": "steel-wing",
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "magneton",
+      "Item": null,
+      "move 1": "thunderbolt",
+      "move 2": "tri-attack",
+      "move 3": "rain-dance",
+      "move 4": "thunder",
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "remoraid",
+      "Item": null,
+      "move 1": "rain-dance",
+      "move 2": "surf",
+      "move 3": "iron-head",
+      "move 4": "acid-armor",
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "steelix",
+      "Item": "quick claw",
+      "move 1": "crunch",
+      "move 2": "earthquake",
+      "move 3": "rock-slide",
+      "move 4": "iron-tail",
+      "Badge Level": 4
+    }
+  ],
+  "Jasmine (Badge #6-7)": [
+    {
+      "Pokemon": "skarmory",
+      "Item": null,
+      "move 1": "spikes",
+      "move 2": "drill-peck",
+      "move 3": "swagger",
+      "move 4": "steel-wing",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "magneton",
+      "Item": null,
+      "move 1": "thunderbolt",
+      "move 2": "tri-attack",
+      "move 3": "rain-dance",
+      "move 4": "thunder",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "ampharos",
+      "Item": null,
+      "move 1": "cotton-spore",
+      "move 2": "thunder-punch",
+      "move 3": "headbutt",
+      "move 4": "iron-tail",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "remoraid",
+      "Item": null,
+      "move 1": "rain-dance",
+      "move 2": "surf",
+      "move 3": "iron-head",
+      "move 4": "acid-armor",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "steelix",
+      "Item": "quick claw",
+      "move 1": "crunch",
+      "move 2": "earthquake",
+      "move 3": "rock-slide",
+      "move 4": "iron-tail",
+      "Badge Level": 5
+    }
+  ],
+  "Pryce (Badge #5)": [
+    {
+      "Pokemon": "dewgong",
+      "Item": null,
+      "move 1": "surf",
+      "move 2": "aurora-beam",
+      "move 3": "rain-dance",
+      "move 4": "rest",
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "jynx",
+      "Item": null,
+      "move 1": "ice-punch",
+      "move 2": "psychic",
+      "move 3": "Rain-dance",
+      "move 4": "lovely-kiss",
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "piloswine",
+      "Item": null,
+      "move 1": "headbutt",
+      "move 2": "earthquake",
+      "move 3": "rock-smash",
+      "move 4": "blizzard",
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "Mr-Rime",
+      "Item": "Gold Berry",
+      "move 1": "icy-wind",
+      "move 2": "psybeam",
+      "move 3": "reflect",
+      "move 4": "double-kick",
+      "Badge Level": 4
+    }
+  ],
+  "Pryce (Badge #6-7)": [
+    {
+      "Pokemon": "dewgong",
+      "Item": null,
+      "move 1": "surf",
+      "move 2": "aurora-beam",
+      "move 3": "snore",
+      "move 4": "rest",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "sneasel",
+      "Item": null,
+      "move 1": "feint-attack",
+      "move 2": "metal-claw",
+      "move 3": "reflect",
+      "move 4": "ice-punch",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "jynx",
+      "Item": null,
+      "move 1": "ice-punch",
+      "move 2": "psychic",
+      "move 3": "Rain-dance",
+      "move 4": "lovely-kiss",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "piloswine",
+      "Item": "Gold Berry",
+      "move 1": "headbutt",
+      "move 2": "earthquake",
+      "move 3": "rock-smash",
+      "move 4": "blizzard",
+      "Badge Level": 5
+    },
+    {
+      "Pokemon": "Mr-Rime",
+      "Item": "Gold Berry",
+      "move 1": "icy-wind",
+      "move 2": "psybeam",
+      "move 3": "reflect",
+      "move 4": "double-kick",
+      "Badge Level": 5
+    }
+  ],
+  "Clair": [
+    {
+      "Pokemon": "dragonair",
+      "Item": null,
+      "move 1": "thunder-wave",
+      "move 2": "thunderbolt",
+      "move 3": "flamethrower",
+      "move 4": "dragon-breath",
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "dragonair",
+      "Item": "gold berry",
+      "move 1": "thunder-wave",
+      "move 2": "thunderbolt",
+      "move 3": "ice-beam",
+      "move 4": "iron-tail",
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "octillery",
+      "Item": "charcoal",
+      "move 1": "sludge-bomb",
+      "move 2": "octazooka",
+      "move 3": "minimize",
+      "move 4": "Fire-blast",
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "lapras",
+      "Item": "mint berry",
+      "move 1": "surf",
+      "move 2": "dragon-breath",
+      "move 3": "body-slam",
+      "move 4": "rest",
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "kingdra",
+      "Item": "leftovers",
+      "move 1": "smokescreen",
+      "move 2": "surf",
+      "move 3": "hyper-beam",
+      "move 4": "dragon-breath",
+      "Badge Level": 7
+    }
+  ],
+  "Rival - Azalea(Quilava)": [
+    {
+      "Pokemon": "gastly",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 1
+    },
+    {
+      "Pokemon": "zubat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 1
+    },
+    {
+      "Pokemon": "Quilava",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 1
+    }
+  ],
+  "Rival - Azalea(Crocnaw)": [
+    {
+      "Pokemon": "gastly",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 1
+    },
+    {
+      "Pokemon": "zubat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 1
+    },
+    {
+      "Pokemon": "crocnaw",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 1
+    }
+  ],
+  "Rival - Azalea(Bayleef)": [
+    {
+      "Pokemon": "gastly",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 1
+    },
+    {
+      "Pokemon": "zubat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 1
+    },
+    {
+      "Pokemon": "Bayleef",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 1
+    }
+  ],
+  "Rival - Burned Tower(Quilava)": [
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "quilava",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "weepinbell",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    }
+  ],
+  "Rival - Burned Tower(Crocnaw)": [
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "crocnaw",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "houndour",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    }
+  ],
+  "Rival - Burned Tower(Bayleef)": [
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "bayleef",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    },
+    {
+      "Pokemon": "tentacool",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 3
+    }
+  ],
+  "Rival - Goldenrod(Typhlosion)": [
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "sneasel",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "Typhlosion",
+      "Item": null,
+      "move 1": "thunder-punch",
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "victreebel",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    }
+  ],
+  "Rival - Goldenrod(Feraligatr)": [
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "sneasel",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "Feraligatr",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "houndoom",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    }
+  ],
+  "Rival - Goldenrod(Meganium)": [
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "sneasel",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "meganium",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "tentacruel",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    }
+  ],
+  "Rival - Victory Road(Typhlosion)": [
+    {
+      "Pokemon": "weavile",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Ursaring",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Typhlosion",
+      "Item": null,
+      "move 1": "thunder-punch",
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Victreebel",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ],
+  "Rival - Victory Road(Feraligatr)": [
+    {
+      "Pokemon": "weavile",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Ursaring",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Feraligatr",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "houndoom",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ],
+  "Rival - Victory Road(Meganium)": [
+    {
+      "Pokemon": "weavile",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Ursaring",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Meganium",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "tentacruel",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ],
+  "Rocket - Ariana(HQ)": [
+    {
+      "Pokemon": "Arbok",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "Persian",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "Vileplume",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "slowpoke",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "murkrow",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    }
+  ],
+  "Rocket - Ariana(Radio Tower)": [
+    {
+      "Pokemon": "Arbok",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "Persian",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "Vileplume",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "slowbro",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "honchkrow",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    }
+  ],
+  "Rocket - Archer(HQ)": [
+    {
+      "Pokemon": "golbat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "houndoom",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "weezing",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "gyarados",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    },
+    {
+      "Pokemon": "granbull",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 4
+    }
+  ],
+  "Rocket - Archer(Radio Tower)": [
+    {
+      "Pokemon": "crobat",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "houndoom",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "weezing",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "gyarados",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    },
+    {
+      "Pokemon": "granbull",
+      "Item": null,
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 7
+    }
+  ],
+  "E4 - Will": [
+    {
+      "Pokemon": "girafarig",
+      "Item": null,
+      "move 1": "psychic",
+      "move 2": "rock-smash",
+      "move 3": "Agility",
+      "move 4": "Baton-pass",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "slowking",
+      "Item": null,
+      "move 1": "amnesia",
+      "move 2": "flamethrower",
+      "move 3": "surf",
+      "move 4": "psychic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Mr-Mime",
+      "Item": null,
+      "move 1": "psychic",
+      "move 2": "play-rough",
+      "move 3": "reflect",
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Exeggutor",
+      "Item": "quick claw",
+      "move 1": "sleep-powder",
+      "move 2": "giga-drain",
+      "move 3": "egg-bomb",
+      "move 4": "psychic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Xatu",
+      "Item": "twistedspoon",
+      "move 1": "drill-peck",
+      "move 2": "recover",
+      "move 3": "confuse-ray",
+      "move 4": "psychic",
+      "Badge Level": 8
+    }
+  ],
+  "E4 - Koga": [
+    {
+      "Pokemon": "ariados",
+      "Item": "kings rock",
+      "move 1": "twineedle",
+      "move 2": "giga-drain",
+      "move 3": "double-team",
+      "move 4": "toxic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "muk",
+      "Item": "leftovers",
+      "move 1": "minimize",
+      "move 2": "toxic",
+      "move 3": "fire-blast",
+      "move 4": "sludge-bomb",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "overqwil",
+      "Item": null,
+      "move 1": "toxic",
+      "move 2": "pursuit",
+      "move 3": "hydro-pump",
+      "move 4": "sludge-bomb",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "venomoth",
+      "Item": null,
+      "move 1": "sludge-bomb",
+      "move 2": "silver-wind",
+      "move 3": "psychic",
+      "move 4": "sleep-powder",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "crobat",
+      "Item": "brightpowder",
+      "move 1": "toxic",
+      "move 2": "double-team",
+      "move 3": "bite",
+      "move 4": "confuse-ray",
+      "Badge Level": 8
+    }
+  ],
+  "E4 - Bruno": [
+    {
+      "Pokemon": "Granbull",
+      "Item": "pink bow",
+      "move 1": "crunch",
+      "move 2": "strength",
+      "move 3": "play-rough",
+      "move 4": "submission",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "heracross",
+      "Item": "focus band",
+      "move 1": "stone-edge",
+      "move 2": "megahorn",
+      "move 3": "reversal",
+      "move 4": "aerial-ace",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "hitmonchan",
+      "Item": null,
+      "move 1": "comet-punch",
+      "move 2": "lock-on",
+      "move 3": "dynamic-punch",
+      "move 4": "mach-punch",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "steelix",
+      "Item": "quick claw",
+      "move 1": "crunch",
+      "move 2": "earthquake",
+      "move 3": "rock-slide",
+      "move 4": "iron-head",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "machamp",
+      "Item": "black belt",
+      "move 1": "rock-slide",
+      "move 2": "strength",
+      "move 3": "vital-throw",
+      "move 4": "cross-chop",
+      "Badge Level": 8
+    }
+  ],
+  "E4 - Karen": [
+    {
+      "Pokemon": "umbreon",
+      "Item": "miracleberry",
+      "move 1": "feint-attack",
+      "move 2": "moonlight",
+      "move 3": "double-team",
+      "move 4": "baton-pass",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "vileplume",
+      "Item": "leftovers",
+      "move 1": "sleep-powder",
+      "move 2": "giga-drain",
+      "move 3": "leech-seed",
+      "move 4": "substitute",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "gengar",
+      "Item": null,
+      "move 1": "shadow-ball",
+      "move 2": "hypnosis",
+      "move 3": "dream-eater",
+      "move 4": "confuse-ray",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "honchkrow",
+      "Item": "sharp beak",
+      "move 1": "drill-peck",
+      "move 2": "feint-attack",
+      "move 3": "steel-wing",
+      "move 4": "haze",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "houndoom",
+      "Item": "blackglasses",
+      "move 1": "flamethrower",
+      "move 2": "crunch",
+      "move 3": "iron-tail",
+      "move 4": "reversal",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "tyranitar",
+      "Item": "quick claw",
+      "move 1": "crunch",
+      "move 2": "earthquake",
+      "move 3": "ancientpower",
+      "move 4": "aerial-ace",
+      "Badge Level": 8
+    }
+  ],
+  "E4 - Lance": [
+    {
+      "Pokemon": "gyarados",
+      "Item": "leftovers",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "dragonite",
+      "Item": "gold berry",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "charizard",
+      "Item": "charcoal",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "zapdos",
+      "Item": "Magnet",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "aerodactyl",
+      "Item": "pink bow",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "dragonite",
+      "Item": "miracleberry",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - Falkner": [
+    {
+      "Pokemon": "Noctowl",
+      "Item": "gold berry",
+      "move 1": "psychic",
+      "move 2": "aerial-ace",
+      "move 3": "hypnosis",
+      "move 4": "Dream-eater",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "skarmory",
+      "Item": null,
+      "move 1": "spikes",
+      "move 2": "drill-peck",
+      "move 3": "mud-slap",
+      "move 4": "steel-wing",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "sirfetch'd",
+      "Item": "stick",
+      "move 1": "cross-chop",
+      "move 2": "swords-dance",
+      "move 3": "mud-slap",
+      "move 4": "slash",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "fearow",
+      "Item": null,
+      "move 1": "drill-peck",
+      "move 2": "screech",
+      "move 3": "agility",
+      "move 4": "razor-wind",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "pidgeot",
+      "Item": null,
+      "move 1": "sky-attack",
+      "move 2": "extreme-speed",
+      "move 3": "double-team",
+      "move 4": "steel-wing",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "honchkrow",
+      "Item": null,
+      "move 1": "drill-peck",
+      "move 2": "feint-attack",
+      "move 3": "haze",
+      "move 4": "icy-wind",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - Bugsy": [
+    {
+      "Pokemon": "ledian",
+      "Item": "focus band",
+      "move 1": "giga-drain",
+      "move 2": "agility",
+      "move 3": "baton-pass",
+      "move 4": "light-screen",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "forretress",
+      "Item": null,
+      "move 1": "curse",
+      "move 2": "explosion",
+      "move 3": "pin-missile",
+      "move 4": "spike-cannon",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "ariados",
+      "Item": "quick claw",
+      "move 1": "super-fang",
+      "move 2": "leech-life",
+      "move 3": "sludge-bomb",
+      "move 4": "screech",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "kabutops",
+      "Item": "hard stone",
+      "move 1": "ancient-power",
+      "move 2": "skull-bash",
+      "move 3": "swords-dance",
+      "move 4": "cut",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "yanmega",
+      "Item": null,
+      "move 1": "dragon-breath",
+      "move 2": "extreme-speed",
+      "move 3": "silver-wind",
+      "move 4": "ancient-power",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "scyther",
+      "Item": "scope lens",
+      "move 1": "slash",
+      "move 2": "cut",
+      "move 3": "razor-wind",
+      "move 4": "swords-dance",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - Whitney": [
+    {
+      "Pokemon": "furret",
+      "Item": null,
+      "move 1": "agility",
+      "move 2": "headbutt",
+      "move 3": "amnesia",
+      "move 4": "thief",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Clefable",
+      "Item": "mint berry",
+      "move 1": "light-screen",
+      "move 2": "moonlight",
+      "move 3": "body-slam",
+      "move 4": "psychic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "granbull",
+      "Item": null,
+      "move 1": "headbutt",
+      "move 2": "play-rough",
+      "move 3": "scary-face",
+      "move 4": "crunch",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "blissey",
+      "Item": null,
+      "move 1": "egg-bomb",
+      "move 2": "attract",
+      "move 3": "softboiled",
+      "move 4": "light-screen",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "ursaring",
+      "Item": null,
+      "move 1": "strength",
+      "move 2": "earthquake",
+      "move 3": "rest",
+      "move 4": "sleep-talk",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "miltank",
+      "Item": "pink bow",
+      "move 1": "iron-tail",
+      "move 2": "attract",
+      "move 3": "body-slam",
+      "move 4": "milk-drink",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - Morty": [
+    {
+      "Pokemon": "gengar",
+      "Item": "gold berry",
+      "move 1": "shadow-ball",
+      "move 2": "destiny-bond",
+      "move 3": "mean-look",
+      "move 4": "confuse-ray",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "wyrdeer",
+      "Item": "pink bow",
+      "move 1": "shadow-ball",
+      "move 2": "headbutt",
+      "move 3": "hypnosis",
+      "move 4": "nightmare",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "umbreon",
+      "Item": null,
+      "move 1": "confuse-ray",
+      "move 2": "feint-attack",
+      "move 3": "screech",
+      "move 4": "moonlight",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "girafarig",
+      "Item": null,
+      "move 1": "psychic",
+      "move 2": "crunch",
+      "move 3": "agility",
+      "move 4": "rock-smash",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "mismagius",
+      "Item": null,
+      "move 1": "glare",
+      "move 2": "hex",
+      "move 3": "psybeam",
+      "move 4": "pain-split",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "gengar",
+      "Item": "spell tag",
+      "move 1": "shadow-ball",
+      "move 2": "hypnosis",
+      "move 3": "thunderbolt",
+      "move 4": "Dream-eater",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - Chuck": [
+    {
+      "Pokemon": "primeape",
+      "Item": null,
+      "move 1": "mach-punch",
+      "move 2": "thunder-punch",
+      "move 3": "rock-slide",
+      "move 4": "meditate",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "sudowoodo",
+      "Item": null,
+      "move 1": "rock-slide",
+      "move 2": "thunder-punch",
+      "move 3": "low-kick",
+      "move 4": "feint-attack",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "pinsir",
+      "Item": null,
+      "move 1": "submission",
+      "move 2": "twineedle",
+      "move 3": "strength",
+      "move 4": "swords-dance",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "sirfetch'd",
+      "Item": "stick",
+      "move 1": "cross-chop",
+      "move 2": "agility",
+      "move 3": "razor-wind",
+      "move 4": "baton-pass",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "hitmontop",
+      "Item": "scope lens",
+      "move 1": "triple-kick",
+      "move 2": "double-kick",
+      "move 3": "dig",
+      "move 4": "pursuit",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "poliwrath",
+      "Item": "black belt",
+      "move 1": "surf",
+      "move 2": "dynamic-punch",
+      "move 3": "belly-drum",
+      "move 4": "body-slam",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - Jasmine": [
+    {
+      "Pokemon": "skarmory",
+      "Item": null,
+      "move 1": "spikes",
+      "move 2": "drill-peck",
+      "move 3": "swagger",
+      "move 4": "steel-wing",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "magneton",
+      "Item": null,
+      "move 1": "double-edge",
+      "move 2": "substitute",
+      "move 3": "rain-dance",
+      "move 4": "thunder",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "ampharos",
+      "Item": null,
+      "move 1": "rain-dance",
+      "move 2": "confuse-ray",
+      "move 3": "thunder",
+      "move 4": "iron-tail",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "remoraid",
+      "Item": null,
+      "move 1": "hyper-beam",
+      "move 2": "surf",
+      "move 3": "iron-head",
+      "move 4": "acid-armor",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "scizor",
+      "Item": "focus band",
+      "move 1": "twineedle",
+      "move 2": "swords-dance",
+      "move 3": "steel-wing",
+      "move 4": "light-screen",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "steelix",
+      "Item": "quick claw",
+      "move 1": "crunch",
+      "move 2": "earthquake",
+      "move 3": "rock-slide",
+      "move 4": "iron-tail",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - Pryce": [
+    {
+      "Pokemon": "dewgong",
+      "Item": "miracleberry",
+      "move 1": "surf",
+      "move 2": "ice-beam",
+      "move 3": "rest",
+      "move 4": "snore",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "weavile",
+      "Item": null,
+      "move 1": "feint-attack",
+      "move 2": "metal-claw",
+      "move 3": "beat-up",
+      "move 4": "blizzard",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "jynx",
+      "Item": null,
+      "move 1": "ice-beam",
+      "move 2": "psychic",
+      "move 3": "shadow-ball",
+      "move 4": "lovely-kiss",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "delibird",
+      "Item": null,
+      "move 1": "blizzard",
+      "move 2": "drill-peck",
+      "move 3": "substitute",
+      "move 4": "present",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "mamoswine",
+      "Item": "soft sand",
+      "move 1": "strength",
+      "move 2": "earthquake",
+      "move 3": "rock-smash",
+      "move 4": "blizzard",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Mr-Rime",
+      "Item": "nevermeltice",
+      "move 1": "psybeam",
+      "move 2": "mirror-coat",
+      "move 3": "play-rough",
+      "move 4": "blizzard",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - Clair": [
+    {
+      "Pokemon": "dragonair",
+      "Item": "gold berry",
+      "move 1": "thunder-wave",
+      "move 2": "thunderbolt",
+      "move 3": "flamethrower",
+      "move 4": "dragon-breath",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "gyarados",
+      "Item": "focus band",
+      "move 1": "bite",
+      "move 2": "surf",
+      "move 3": "aerial-ace",
+      "move 4": "twister",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "dragonair",
+      "Item": "gold berry",
+      "move 1": "thunder-wave",
+      "move 2": "thunderbolt",
+      "move 3": "ice-beam",
+      "move 4": "iron-tail",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "octillery",
+      "Item": "charcoal",
+      "move 1": "sludge-bomb",
+      "move 2": "octazooka",
+      "move 3": "minimize",
+      "move 4": "fire-blast",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "lapras",
+      "Item": "miracleberry",
+      "move 1": "surf",
+      "move 2": "ice-beam",
+      "move 3": "body-slam",
+      "move 4": "rest",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "kingdra",
+      "Item": "leftovers",
+      "move 1": "agility",
+      "move 2": "hydro-pump",
+      "move 3": "ice-beam",
+      "move 4": "dragon-breath",
+      "Badge Level": 8
+    }
+  ],
+  "Lt. Surge": [
+    {
+      "Pokemon": "electrode",
+      "Item": "focus band",
+      "move 1": "thunder",
+      "move 2": "rain-dance",
+      "move 3": "thunder-wave",
+      "move 4": "explosion",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "magneton",
+      "Item": "magnet",
+      "move 1": "lock-on",
+      "move 2": "reflect",
+      "move 3": "tri-attack",
+      "move 4": "zap-cannon",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "lanturn",
+      "Item": "leftovers",
+      "move 1": "surf",
+      "move 2": "rain-dance",
+      "move 3": "thunderbolt",
+      "move 4": "confuse-ray",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "jolteon",
+      "Item": "brightpowder",
+      "move 1": "double-team",
+      "move 2": "double-kick",
+      "move 3": "thunder-wave",
+      "move 4": "thunder",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "electabuzz",
+      "Item": "scope lens",
+      "move 1": "light-screen",
+      "move 2": "thunderbolt",
+      "move 3": "cross-chop",
+      "move 4": "ice-punch",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "raichu",
+      "Item": "magnet",
+      "move 1": "rain-dance",
+      "move 2": "body-slam",
+      "move 3": "surf",
+      "move 4": "thunder",
+      "Badge Level": 8
+    }
+  ],
+  "Erika": [
+    {
+      "Pokemon": "jumpluff",
+      "Item": "quick claw",
+      "move 1": "whirlwind",
+      "move 2": "sunny-day",
+      "move 3": "giga-drain",
+      "move 4": "spore",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "tangrowth",
+      "Item": null,
+      "move 1": "ancient-power",
+      "move 2": "wrap",
+      "move 3": "giga-drain",
+      "move 4": "sleep-powder",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "victreebel",
+      "Item": "poison barb",
+      "move 1": "synthesis",
+      "move 2": "swords-dance",
+      "move 3": "sludge-bomb",
+      "move 4": "mud-slap",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "bellossom",
+      "Item": "miracle seed",
+      "move 1": "sunny-day",
+      "move 2": "synthesis",
+      "move 3": "petal-dance",
+      "move 4": "sleep-powder",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "venusaur",
+      "Item": "leftovers",
+      "move 1": "sunny-day",
+      "move 2": "sleep-powder",
+      "move 3": "sludge-bomb",
+      "move 4": "solarbeam",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "vileplume",
+      "Item": "miracle seed",
+      "move 1": "growth",
+      "move 2": "light-screen",
+      "move 3": "giga-drain",
+      "move 4": "sludge-bomb",
+      "Badge Level": 8
+    }
+  ],
+  "Misty": [
+    {
+      "Pokemon": "seaking",
+      "Item": null,
+      "move 1": "agility",
+      "move 2": "rain-dance",
+      "move 3": "waterfall",
+      "move 4": "drill-peck",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "golduck",
+      "Item": "quick claw",
+      "move 1": "surf",
+      "move 2": "hypnosis",
+      "move 3": "cross-chop",
+      "move 4": "psychic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "vaporeon",
+      "Item": "leftovers",
+      "move 1": "surf",
+      "move 2": "acid-armor",
+      "move 3": "light-screen",
+      "move 4": "ice-beam",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "kingdra",
+      "Item": null,
+      "move 1": "hydro-pump",
+      "move 2": "twister",
+      "move 3": "agility",
+      "move 4": "rain-dance",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "lapras",
+      "Item": "nevermeltice",
+      "move 1": "surf",
+      "move 2": "reflect",
+      "move 3": "ice-beam",
+      "move 4": "rain-dance",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "starmie",
+      "Item": "mystic water",
+      "move 1": "surf",
+      "move 2": "psychic",
+      "move 3": "recover",
+      "move 4": "confuse-ray",
+      "Badge Level": 8
+    }
+  ],
+  "Janine": [
+    {
+      "Pokemon": "crobat",
+      "Item": null,
+      "move 1": "pursuit",
+      "move 2": "sludge-bomb",
+      "move 3": "confuse-ray",
+      "move 4": "toxic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "weezing",
+      "Item": "leftovers",
+      "move 1": "sludge-bomb",
+      "move 2": "fire-blast",
+      "move 3": "destiny-bond",
+      "move 4": "amnesia",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "arbok",
+      "Item": null,
+      "move 1": "crunch",
+      "move 2": "cross-poison",
+      "move 3": "iron-tail",
+      "move 4": "screech",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "ariados",
+      "Item": "quick claw",
+      "move 1": "super-fang",
+      "move 2": "crunch",
+      "move 3": "leech-life",
+      "move 4": "psychic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "tentacruel",
+      "Item": "mystic water",
+      "move 1": "surf",
+      "move 2": "hex",
+      "move 3": "toxic",
+      "move 4": "confuse-ray",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "venomoth",
+      "Item": "brightpowder",
+      "move 1": "giga-drain",
+      "move 2": "psychic",
+      "move 3": "toxic",
+      "move 4": "double-team",
+      "Badge Level": 8
+    }
+  ],
+  "Sabrina": [
+    {
+      "Pokemon": "espeon",
+      "Item": "brightpowder",
+      "move 1": "psychic",
+      "move 2": "reflect",
+      "move 3": "double-team",
+      "move 4": "double-kick",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "Mr-Mime",
+      "Item": "quick claw",
+      "move 1": "thunder-wave",
+      "move 2": "ice-punch",
+      "move 3": "psychic",
+      "move 4": "encore",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "wobbuffet",
+      "Item": "leftovers",
+      "move 1": "mirror-coat",
+      "move 2": "counter",
+      "move 3": "safeguard",
+      "move 4": "destiny-bond",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "haunter",
+      "Item": "quick claw",
+      "move 1": "hypnosis",
+      "move 2": "dream-eater",
+      "move 3": "hex",
+      "move 4": "nasty-plot",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "venomoth",
+      "Item": "focus band",
+      "move 1": "silver-wind",
+      "move 2": "psychic",
+      "move 3": "sleep-powder",
+      "move 4": "moonlight",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "alakazam",
+      "Item": "twistedspoon",
+      "move 1": "psychic",
+      "move 2": "shadow-ball",
+      "move 3": "recover",
+      "move 4": "thunder-punch",
+      "Badge Level": 8
+    }
+  ],
+  "Brock": [
+    {
+      "Pokemon": "golem",
+      "Item": "quick claw",
+      "move 1": "curse",
+      "move 2": "rock-slide",
+      "move 3": "body-slam",
+      "move 4": "earthquake",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "aerodactyl",
+      "Item": "hard stone",
+      "move 1": "sky-attack",
+      "move 2": "earthquake",
+      "move 3": "ancient-power",
+      "move 4": "fire-blast",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "omastar",
+      "Item": "focus band",
+      "move 1": "ancient-power",
+      "move 2": "surf",
+      "move 3": "ice-beam",
+      "move 4": "toxic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "kabutops",
+      "Item": "scope lens",
+      "move 1": "swords-dance",
+      "move 2": "surf",
+      "move 3": "ancient-power",
+      "move 4": "cut",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "tyranitar",
+      "Item": "magnet",
+      "move 1": "crunch",
+      "move 2": "rock-slide",
+      "move 3": "earthquake",
+      "move 4": "thunderbolt",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "steelix",
+      "Item": "leftovers",
+      "move 1": "curse",
+      "move 2": "earthquake",
+      "move 3": "rock-slide",
+      "move 4": "iron-tail",
+      "Badge Level": 8
+    }
+  ],
+  "Blaine": [
+    {
+      "Pokemon": "rapidash",
+      "Item": "quick claw",
+      "move 1": "double-edge",
+      "move 2": "reflect",
+      "move 3": "sunny-day",
+      "move 4": "fire-blast",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "magmar",
+      "Item": "gold berry",
+      "move 1": "thunder-punch",
+      "move 2": "fire-blast",
+      "move 3": "psychic",
+      "move 4": "confuse-ray",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "octillery",
+      "Item": "mystic water",
+      "move 1": "surf",
+      "move 2": "toxic",
+      "move 3": "fire-spin",
+      "move 4": "flamethrower",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "magcargo",
+      "Item": "quick claw",
+      "move 1": "flamethrower",
+      "move 2": "rock-slide",
+      "move 3": "amnesia",
+      "move 4": "swagger",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "moltres",
+      "Item": "sharp beak",
+      "move 1": "fire-blast",
+      "move 2": "sky-attack",
+      "move 3": "solarbeam",
+      "move 4": "sunny-day",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "arcanine",
+      "Item": "charcoal",
+      "move 1": "crunch",
+      "move 2": "extreme-speed",
+      "move 3": "dragon-breath",
+      "move 4": "fire-blast",
+      "Badge Level": 8
+    }
+  ],
+  "Blue": [
+    {
+      "Pokemon": "articuno",
+      "Item": "miracle berry",
+      "move 1": "ice-beam",
+      "move 2": "sky-attack",
+      "move 3": "hidden-power",
+      "move 4": "reflect",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "alakazam",
+      "Item": "twistedspoon",
+      "move 1": "thunder-punch",
+      "move 2": "recover",
+      "move 3": "psychic",
+      "move 4": "shadow-ball",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "machamp",
+      "Item": "scope lens",
+      "move 1": "cross-chop",
+      "move 2": "stone-edge",
+      "move 3": "earthquake",
+      "move 4": "body-slam",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "gyarados",
+      "Item": "focus band",
+      "move 1": "hydro-pump",
+      "move 2": "hyper-beam",
+      "move 3": "double-team",
+      "move 4": "reversal",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "exeggutor",
+      "Item": "leftovers",
+      "move 1": "leech-seed",
+      "move 2": "sleep-powder",
+      "move 3": "psychic",
+      "move 4": "giga-drain",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "arcanine",
+      "Item": "kings rock",
+      "move 1": "fire-blast",
+      "move 2": "dragon-breath",
+      "move 3": "bite",
+      "move 4": "extreme-speed",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - E4 - Will": [
+    {
+      "Pokemon": "wyrdeer",
+      "Item": "scope lens",
+      "move 1": "double-edge",
+      "move 2": "shadow-ball",
+      "move 3": "megahorn",
+      "move 4": "reflect",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "slowking",
+      "Item": "leftovers",
+      "move 1": "rest",
+      "move 2": "sleep-talk",
+      "move 3": "surf",
+      "move 4": "flamethrower",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "exeggutor",
+      "Item": "miracle berry",
+      "move 1": "sleep-powder",
+      "move 2": "ancient-power",
+      "move 3": "dream-eater",
+      "move 4": "softboiled",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "ninetales",
+      "Item": "charcoal",
+      "move 1": "fire-blast",
+      "move 2": "shadow-ball",
+      "move 3": "confuse-ray",
+      "move 4": "iron-tail",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "jynx",
+      "Item": "twistedspoon",
+      "move 1": "lovely-kiss",
+      "move 2": "ice-beam",
+      "move 3": "body-slam",
+      "move 4": "psychic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "xatu",
+      "Item": "leftovers",
+      "move 1": "psychic",
+      "move 2": "silver-wind",
+      "move 3": "fly",
+      "move 4": "confuse-ray",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - E4 - Koga": [
+    {
+      "Pokemon": "tentacruel",
+      "Item": "mint berry",
+      "move 1": "waterfall",
+      "move 2": "rest",
+      "move 3": "blizzard",
+      "move 4": "giga-drain",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "muk",
+      "Item": "leftovers",
+      "move 1": "minimize",
+      "move 2": "fire-blast",
+      "move 3": "sludge-bomb",
+      "move 4": "toxic",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "gliscor",
+      "Item": "scope lens",
+      "move 1": "earthquake",
+      "move 2": "iron-tail",
+      "move 3": "cross-poison",
+      "move 4": "feint-attack",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "nidoking",
+      "Item": "quick claw",
+      "move 1": "lovely-kiss",
+      "move 2": "cross-poison",
+      "move 3": "surf",
+      "move 4": "earthquake",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "hypno",
+      "Item": "brightpowder",
+      "move 1": "fire-punch",
+      "move 2": "thunder-wave",
+      "move 3": "psychic",
+      "move 4": "shadow-ball",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "crobat",
+      "Item": "leftovers",
+      "move 1": "protect",
+      "move 2": "toxic",
+      "move 3": "fly",
+      "move 4": "confuse-ray",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - E4 - Bruno": [
+    {
+      "Pokemon": "tauros",
+      "Item": "pink bow",
+      "move 1": "double-kick",
+      "move 2": "pursuit",
+      "move 3": "double-edge",
+      "move 4": "iron-tail",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "heracross",
+      "Item": "scope lens",
+      "move 1": "cross-chop",
+      "move 2": "megahorn",
+      "move 3": "stone-edge",
+      "move 4": "aerial-ace",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "hitmonlee",
+      "Item": "blackbelt",
+      "move 1": "hi-jump-kick",
+      "move 2": "mega-kick",
+      "move 3": "reversal",
+      "move 4": "swagger",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "steelix",
+      "Item": "quick claw",
+      "move 1": "crunch",
+      "move 2": "earthquake",
+      "move 3": "explosion",
+      "move 4": "iron-tail",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "electabuzz",
+      "Item": "brightpowder",
+      "move 1": "thunder",
+      "move 2": "ice-punch",
+      "move 3": "light-screen",
+      "move 4": "rolling-kick",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "machamp",
+      "Item": "leftovers",
+      "move 1": "rock-slide",
+      "move 2": "earthquake",
+      "move 3": "body-slam",
+      "move 4": "cross-chop",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - E4 - Karen": [
+    {
+      "Pokemon": "umbreon",
+      "Item": "miracle berry",
+      "move 1": "moonlight",
+      "move 2": "double-team",
+      "move 3": "feint-attack",
+      "move 4": "baton-pass",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "gengar",
+      "Item": "scope lens",
+      "move 1": "shadow-ball",
+      "move 2": "psychic",
+      "move 3": "destiny-bond",
+      "move 4": "giga-drain",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "blissey",
+      "Item": "leftovers",
+      "move 1": "psychic",
+      "move 2": "softboiled",
+      "move 3": "attract",
+      "move 4": "zap-cannon",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "houndoom",
+      "Item": "charcoal",
+      "move 1": "flamethrower",
+      "move 2": "crunch",
+      "move 3": "iron-tail",
+      "move 4": "hidden-power",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "honchkrow",
+      "Item": "sharp beak",
+      "move 1": "sky-attack",
+      "move 2": "pursuit",
+      "move 3": "swagger",
+      "move 4": "psych-up",
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "tyranitar",
+      "Item": "miracle berry",
+      "move 1": "strength",
+      "move 2": "crunch",
+      "move 3": "earthquake",
+      "move 4": "dragon-breath",
+      "Badge Level": 8
+    }
+  ],
+  "Rematch - E4 - Lance": [
+    {
+      "Pokemon": "dragonite",
+      "Item": "miracle berry",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "gyarados",
+      "Item": "quick claw",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "charizard",
+      "Item": "leftovers",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "aerodactyl",
+      "Item": "scope lens",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "kingdra",
+      "Item": "mystic water",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "dragonite",
+      "Item": "pink bow",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ],
+  "Red": [
+    {
+      "Pokemon": "pikachu",
+      "Item": "light ball",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "snorlax",
+      "Item": "leftovers",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "charizard",
+      "Item": "charcoal",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "venusaur",
+      "Item": "miracle seed",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "blastoise",
+      "Item": "quick claw",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "mewtwo",
+      "Item": "miracle berry",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ],
+  "Agatha": [
+    {
+      "Pokemon": "mismagius",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "ariados",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "gengar",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "golbat",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "arbok",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "gengar",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ],
+  "Lorelei": [
+    {
+      "Pokemon": "jynx",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "dewgong",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "cloyster",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "glaceon",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "slowbro",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "lapras",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ],
+  "Giovanni": [
+    {
+      "Pokemon": "persian",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "nidoking",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "kangaskhan",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "nidoqueen",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "steelix",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "rhydon",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ],
+  "Professor Oak": [
+    {
+      "Pokemon": "jolteon",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "tauros",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "nidoking",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "clefable",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "muk",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    },
+    {
+      "Pokemon": "porygon2",
+      "Item": "???",
+      "move 1": null,
+      "move 2": null,
+      "move 3": null,
+      "move 4": null,
+      "Badge Level": 8
+    }
+  ]
+}
