@@ -8655,7 +8655,8 @@
         "Family": 30,
         "Badges Before Available": 0,
         "Routes": [
-            "Fishing"
+            "Fishing",
+            "Lake of Rage"
         ],
         "Moves": {
             "Learned": [
@@ -8707,7 +8708,8 @@
         "Family": 30,
         "Badges Before Available": 3,
         "Routes": [
-            "Fishing"
+            "Fishing",
+            "Lake of Rage"
         ],
         "Moves": {
             "Learned": [
