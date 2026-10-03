@@ -4259,7 +4259,7 @@
             "SLOWPOKE WELL",
             "MOUNT MORTAR",
             "ICE PATH",
-            "WHIRL ISLAND",
+            "Whirl Islands",
             "DARK CAVE VIOLET",
             "30",
             "31",
@@ -4382,7 +4382,7 @@
             "SLOWPOKE WELL",
             "MOUNT MORTAR",
             "ICE PATH",
-            "WHIRL ISLAND",
+            "Whirl Islands",
             "SILVER CAVE",
             "DARK CAVE BLACKTHORN",
             "42",
@@ -18929,7 +18929,7 @@
         "Family": 74,
         "Badges Before Available": 3,
         "Routes": [
-            "WHIRL ISLAND",
+            "Whirl Islands",
             "Fishing",
             "Rock Smash"
         ],
@@ -20080,7 +20080,7 @@
         "Family": 80,
         "Badges Before Available": 3,
         "Routes": [
-            "WHIRL ISLAND",
+            "Whirl Islands",
             "Trades"
         ],
         "Moves": {
@@ -29526,7 +29526,7 @@
         "Family": 127,
         "Badges Before Available": 8,
         "Routes": [
-            "WHIRL ISLAND"
+            "Whirl Islands"
         ],
         "Moves": {
             "Learned": [
