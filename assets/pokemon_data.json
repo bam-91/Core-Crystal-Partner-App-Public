@@ -17310,10 +17310,7 @@
         "Family": 67,
         "Badges Before Available": 4,
         "Routes": [
-            "ICE PATH B1F",
-            "ICE PATH B2F MAHOGANY SIDE",
-            "ICE PATH B2F BLACKTHORN SIDE",
-            "ICE PATH B3F"
+            "Ice Path"
         ],
         "Moves": {
             "Learned": [
@@ -22236,11 +22233,7 @@
         "Family": 93,
         "Badges Before Available": 7,
         "Routes": [
-            "ICE PATH 1F",
-            "ICE PATH B1F",
-            "ICE PATH B2F MAHOGANY SIDE",
-            "ICE PATH B2F BLACKTHORN SIDE",
-            "ICE PATH B3F"
+            "Ice Path"
         ],
         "Moves": {
             "Learned": [
@@ -22347,11 +22340,7 @@
         "Family": 94,
         "Badges Before Available": 7,
         "Routes": [
-            "ICE PATH 1F",
-            "ICE PATH B1F",
-            "ICE PATH B2F MAHOGANY SIDE",
-            "ICE PATH B2F BLACKTHORN SIDE",
-            "ICE PATH B3F"
+            "Ice Path"
         ],
         "Moves": {
             "Learned": [
@@ -22468,10 +22457,7 @@
         "Family": 94,
         "Badges Before Available": 7,
         "Routes": [
-            "ICE PATH B1F",
-            "ICE PATH B2F MAHOGANY SIDE",
-            "ICE PATH B2F BLACKTHORN SIDE",
-            "ICE PATH B3F"
+            "Ice Path"
         ],
         "Moves": {
             "Learned": [
