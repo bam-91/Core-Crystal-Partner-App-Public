@@ -1578,7 +1578,7 @@
         "Badges Before Available": 2,
         "Routes": [
             "42",
-            "SILVER CAVE",
+            "Mt. Silver (Outside)",
             "9",
             "10",
             "16",
@@ -1834,7 +1834,7 @@
             "38",
             "39",
             "43",
-            "SILVER CAVE",
+            "Mt. Silver (Outside)",
             "2",
             "5",
             "8",
@@ -2750,7 +2750,7 @@
         "Family": 9,
         "Badges Before Available": 3,
         "Routes": [
-            "SILVER CAVE"
+            "Mt. Silver (Outside)"
         ],
         "Moves": {
             "Learned": [
@@ -14567,7 +14567,7 @@
         "Badges Before Available": 3,
         "Routes": [
             "37",
-            "SILVER CAVE",
+            "Mt. Silver (Outside)",
             "26",
             "28"
         ],
@@ -15162,7 +15162,7 @@
         "Family": 58,
         "Badges Before Available": 4,
         "Routes": [
-            "SILVER CAVE",
+            "Mt. Silver (Outside)",
             "28"
         ],
         "Moves": {
@@ -22808,7 +22808,8 @@
             "SILVER CAVE",
             "DARK CAVE BLACKTHORN",
             "VICTORY ROAD",
-            "28"
+            "28",
+            "Mt. Silver (Outside)"
         ],
         "Moves": {
             "Learned": [
@@ -23705,7 +23706,7 @@
         "Family": 100,
         "Badges Before Available": 7,
         "Routes": [
-            "SILVER CAVE",
+            "Mt. Silver (Outside)",
             "28"
         ],
         "Moves": {
@@ -27127,7 +27128,7 @@
         "Family": 116,
         "Badges Before Available": 5,
         "Routes": [
-            "SILVER CAVE"
+            "Mt. Silver (Outside)"
         ],
         "Moves": {
             "Learned": [
@@ -27508,7 +27509,7 @@
         "Family": 117,
         "Badges Before Available": 6,
         "Routes": [
-            "SILVER CAVE"
+            "Mt. Silver (Outside)"
         ],
         "Moves": {
             "Learned": [
@@ -27901,7 +27902,7 @@
         "Family": 118,
         "Badges Before Available": 6,
         "Routes": [
-            "SILVER CAVE"
+            "Mt. Silver (Outside)"
         ],
         "Moves": {
             "Learned": [
@@ -29903,7 +29904,9 @@
         "Legendary": "yes",
         "Family": 130,
         "Badges Before Available": 8,
-        "Routes": [],
+        "Routes": [
+            "Mt. Silver (Outside)"
+        ],
         "Moves": {
             "Learned": [
                 {
