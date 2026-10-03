@@ -28386,7 +28386,9 @@
         "Legendary": "yes",
         "Family": 122,
         "Badges Before Available": 3,
-        "Routes": [],
+        "Routes": [
+            "Roaming Legendary"
+        ],
         "Moves": {
             "Learned": [
                 {
@@ -28501,7 +28503,9 @@
         "Legendary": "yes",
         "Family": 123,
         "Badges Before Available": 3,
-        "Routes": [],
+        "Routes": [
+            "Roaming Legendary"
+        ],
         "Moves": {
             "Learned": [
                 {
