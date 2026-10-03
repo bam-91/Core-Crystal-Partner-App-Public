@@ -9210,7 +9210,9 @@
         "Legendary": "no",
         "Family": 32,
         "Badges Before Available": 6,
-        "Routes": [],
+        "Routes": [
+            "SLOWPOKE WELL"
+        ],
         "Moves": {
             "Learned": [
                 {
